@@ -6,4 +6,4 @@
 node_modules/
 
 # this one too
-test-app.rest
+test.app.rest
